@@ -1,0 +1,32 @@
+{
+    "todos":[
+        {
+            "title":"task 1",
+            "resposable":"mark",
+            "description":"lorem inpsum ",
+            "priority":"low"
+
+        },
+        {
+            "title":"task 2",
+            "resposable":"luis",
+            "description":"lorem inpsum ",
+            "priority":"hig"
+
+        },
+        {
+            "title":"task 3",
+            "resposable":"laura",
+            "description":"lorem inpsum ",
+            "priority":"medium"
+
+        },
+        {
+            "title":"task 3",
+            "resposable":"cris",
+            "description":"lorem inpsum ",
+            "priority":"low"
+
+        }
+    ]
+}
